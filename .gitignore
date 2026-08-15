@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 data/
 train_image_features.npy
+best_caption_model.keras
